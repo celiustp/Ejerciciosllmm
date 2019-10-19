@@ -14,6 +14,3 @@ Recopilación de ejercicios de lenguaje de marca
 | Ejercicio 3| Tema 2/Ej3.html|
 
 
-| TITULO1| TITULO2|
-| ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
