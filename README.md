@@ -2,7 +2,8 @@
 Recopilación de ejercicios de lenguaje de marca
 
 
-|Ejercicio 1||Tema 1/Ej 1.html/
+| Ejercicio 1|| Tema 1/Ej 1.html/|
+|-----------||-----------------|
 |Ejercicio 2||Tema 1/Ej 2/|
 
 |Ejercicio 1||Tema 2/Ej1.html|
