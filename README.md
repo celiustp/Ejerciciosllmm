@@ -13,7 +13,7 @@ Recopilación de ejercicios de lenguaje de marca
 | T2| [Ej1.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej1.html)|
 | T2| [Ej2.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej2.html)|
 | T2| [Ej3.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej3.html)|
-| Tx| [Ejx.html](Ejerciciosllmmm/Tema2/Ej3.html)
+| Tx| [Ejx.html](Tema2/Ej3.html)
 
 
 [texto a mostrar](url completa)
