@@ -2,10 +2,10 @@
 Recopilación de ejercicios de lenguaje de marca
 
 
-| Ejercicio| Tema 1|
+| Tema 2| Ejercicio|
 | ----- | ----- |
-| Ejercicio 1| Tema 1/Ej 1.html/|
-| Ejercicio 2| Tema 1/Ej 2/|
+| T1| [Ej1](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%201/Ej%201.html)|
+| T2| Tema 1/Ej 2/|
 
 | Tema 2| Ejercicio|
 | ----- | ----- |
