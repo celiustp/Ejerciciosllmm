@@ -19,9 +19,7 @@ Recopilación de ejercicios de lenguaje de marca
 | | Write a HTML page with the follow two levels nested list|
 | | Añade los siguientes ítems|
 | | Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
-
-Usa un color de fondo diferente para cada párrafo y un color de texto igualmente distinto. Emplea tipo de letra verdana para las cabeceras y courier para los párrafos. Usa una alineación diferente para cada párrafo
-|
+Usa un color de fondo diferente para cada párrafo y un color de texto igualmente distinto. Emplea tipo de letra verdana para las cabeceras y courier para los párrafos. Usa una alineación diferente para cada párrafo|
 
 
 [texto a mostrar](url completa)
