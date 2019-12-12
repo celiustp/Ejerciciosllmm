@@ -21,7 +21,10 @@ Recopilación de ejercicios de lenguaje de marca
 | [Ej9.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej9.html)| Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta...|
 | [Ej10.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej10.html)| Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta|
 | [Ej11.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej11.html)| Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta|
-
+| [Ej12.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej12.html)| Crea la tabla mostrada a continuación, Usa cabeceras y los atributos necesarios.|
+| [Ej13.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej13.html)| Display your  timetable in the school. If you have the same subject 2 or 3 hours in a row then it should be combined in one cell. The break should be displayed in one row..|
+| [Ej14.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej14.html)| Display the following table. Use heading cells where necessary and all attributes you need.|
+| [Ej15.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej15.html)| Display the following table. Use heading cells where necessary and all attributes you need.|
 
 [texto a mostrar](url completa)
 
