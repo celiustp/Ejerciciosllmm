@@ -25,9 +25,9 @@ Recopilación de ejercicios de lenguaje de marca
 | [Ej13.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej13.html)| Display your  timetable in the school. If you have the same subject 2 or 3 hours in a row then it should be combined in one cell. The break should be displayed in one row..|
 | [Ej14.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej14.html)| Display the following table. Use heading cells where necessary and all attributes you need.|
 | [Ej15.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej15.html)| Display the following table. Use heading cells where necessary and all attributes you need.|
-| [Ej16.html]()| |
-| [Ej17.html]()| |
-| [Ej18.html]()| |
+| [Ej16.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej16/Ej16.html)| |
+| [Ej17.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej17/Ej17.html)| |
+| [Ej18.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej18/Ej18.html)| |
 
 [texto a mostrar](url completa)
 
