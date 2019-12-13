@@ -1,0 +1,10 @@
+h1 { text-decoration : underline }
+img {
+ borde : 1 px  azul sólido  ;
+ radio de borde : 5 px ;
+ relleno : 7 px ;
+ flotador : derecho ;
+ margen : 26 px ;
+}
+
+img : hover { box-shadow : 0  0  3 px  2 px  morado ;}
