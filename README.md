@@ -28,7 +28,7 @@ Recopilación de ejercicios de lenguaje de marca
 | [Ej16.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej16/Ej16.html)| Muestra una imagen con posicionamiento flotante a izquierda junto a un párrafo con texto.|
 | [Ej17.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej17/Ej17.html)| Usa las imágenes de w3school incluidas al principio del artículo del enlace siguiente y agregales texto, tal como aparece en el ejemplo final del artículo sobre posicionamiento flotante.|
 | [Ej18.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej18/Ej18.html)| Crea un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas.|
-| [Ej19.html]()| Crea una página que incluya una barra de menús: “html | css | javascript | Ajax”.|
+| [Ej19.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej19.html)| Crea una página que incluya una barra de menús: “html | css | javascript | Ajax”.|
 
 [texto a mostrar](url completa)
 
