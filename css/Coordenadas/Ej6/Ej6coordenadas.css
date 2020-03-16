@@ -1,0 +1,49 @@
+#fondo {
+  position: absolute;
+  width: 500px;
+  height: 300px;
+  background-color: lightgray;
+}
+
+p {  
+  font-family: sans-serif;
+  font-size: 300%;
+  margin: 0;
+}
+
+/* MODIFIQUE LAS PROPIEDADES SIGUIENTES: */
+#p1{
+  position: absolute;
+  top: 10px;
+  left: 90px;
+  width: 250px;
+  height: 150px;
+  background-color: blue;
+}
+
+#p2{  
+  position: absolute;  
+  bottom: 30px;  
+  left: 30px;  
+  width: 155px;
+  height: 130px;  
+  background-color: green;
+}
+
+#p3{
+  position: absolute;
+  bottom: 80px;
+  right: 50px;
+  width: 175px;
+  height: 160px;
+  background-color: yellow;
+}
+
+#p4{    
+  position: absolute;    
+  bottom: 20px;    
+  right: 120px;    
+  width: 250px;    
+  height: 100px;    
+  background-color: red;
+}
