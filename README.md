@@ -34,5 +34,13 @@ Recopilación de ejercicios de lenguaje de marca
 | [Ej22.html](https://github.com/celiustp/Ejerciciosllmm/tree/master/Tema%202/Ej22)| Create una cuenta en un servicio de alojamiento web gratuito como la siguiente: ...|
 | [DOM.html](https://github.com/celiustp/Ejerciciosllmm/tree/master/Tema%202/DOM)| Ejercicios DOM|
 
+| Actividades css| Descripción|
+| ----- | ----- |
+| [Ej1.html](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Ej1)| Text format.|
+| [Ej2.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/css/Ej2.html)| CSS Layouts|
+| [Ej coordenadas 6,7,8 ](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Coordenadas)| Absolute position|
+
+
+
 [texto a mostrar](url completa)
 
