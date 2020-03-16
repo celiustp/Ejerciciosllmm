@@ -29,6 +29,10 @@ Recopilación de ejercicios de lenguaje de marca
 | [Ej17.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej17/Ej17.html)| Usa las imágenes de w3school incluidas al principio del artículo del enlace siguiente y agregales texto, tal como aparece en el ejemplo final del artículo sobre posicionamiento flotante.|
 | [Ej18.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej18/Ej18.html)| Crea un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas.|
 | [Ej19.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej19.html)| Crea una página que incluya una barra de menús: “html, css, javascript, Ajax”. A continuación se mostrará un iFrame...|
+| [Ej20.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej20.html)| Display the following HTML form:...|
+| [Ej21.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej21.html)| Append new controls to last exercise....|
+| [Ej22.html](https://github.com/celiustp/Ejerciciosllmm/tree/master/Tema%202/Ej22)| Create una cuenta en un servicio de alojamiento web gratuito como la siguiente: ...|
+| [DOM.html](https://github.com/celiustp/Ejerciciosllmm/tree/master/Tema%202/DOM)| Ejercicios DOM|
 
 [texto a mostrar](url completa)
 
