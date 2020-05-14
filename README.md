@@ -2,13 +2,13 @@
 Recopilación de ejercicios de lenguaje de marca
 
 
-| Actividades T1| Descripción|
+| T1 Actividades| Descripción|
 | ----- | ----- |
 | [Ej1.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%201/Ej%201.html)| Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección|
 | [Ej3](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%201/Ej%203)| ¿Qué es SVG? Busca un ejemplo.|
 | [Ej4](https://github.com/celiustp/Prueba)| ¿Qué es markdown? Crea una cuenta en Github, si no la tienes ya. A continuación crea un repositorio nuevo llamado “prueba” que incluya una página “README.md”. Utiliza markdown para que incluya varias cabeceras, texto, una lista, un gráfico y una tabla.|
 
-| Actividades T2| Descripción|
+| T2 Actividades| Descripción|
 | ----- | ----- |
 | [Ej1.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej1.html)| Crea una página con el texto facilitado e incluye las etiquetas necesarias|
 | [Ej2.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej2.html)| Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.|
@@ -32,15 +32,31 @@ Recopilación de ejercicios de lenguaje de marca
 | [Ej20.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej20.html)| Display the following HTML form:...|
 | [Ej21.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/Ej21.html)| Append new controls to last exercise....|
 | [Ej22.html](https://github.com/celiustp/Ejerciciosllmm/tree/master/Tema%202/Ej22)| Create una cuenta en un servicio de alojamiento web gratuito como la siguiente: ...|
-| [DOM.html](https://github.com/celiustp/Ejerciciosllmm/tree/master/Tema%202/DOM)| Ejercicios DOM|
+| [Ej23.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/DOM/Ej23.html)| Ejercicios DOM|
+| [Ej24.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/DOM/Ej24.html)| Ejercicios DOM|
+| [Ej25.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/DOM/Ej25.html)| Ejercicios DOM|
+| [Ej26.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/Tema%202/DOM/Ej26.html)| Ejercicios DOM|
 
-| Actividades css| Descripción|
+| T2 Desafíos DOM|
+| ----- |
+| [D 1]()|
+| [D 2]()|
+| [D 3]()|
+| [D 4]()|
+
+| T2 Actividades css| Descripción|
 | ----- | ----- |
-| [Ej1.html](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Ej1)| Text format.|
-| [Ej2.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/css/Ej2.html)| CSS Layouts|
-| [Ej3.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/css/Ej3.html)| Styling Links|
-| [Ej4.html](https://github.com/celiustp/Ejerciciosllmm/blob/master/css/Ej4.html)|  Styling Tables.|
-| [Ej coordenadas 6,7,8 ](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Coordenadas)| Absolute position|
+| [Ej1](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Ej1)| Text format.|
+| [Ej2](https://github.com/celiustp/Ejerciciosllmm/blob/master/css/Ej2.html)| CSS Layouts|
+| [Ej3](https://github.com/celiustp/Ejerciciosllmm/blob/master/css/Ej3.html)| Styling Links|
+| [Ej4](https://github.com/celiustp/Ejerciciosllmm/blob/master/css/Ej4.html)|  Styling Tables.|
+
+| T2 Actividades posicionamiento | Descripción|
+| ----- | ----- |
+| [Ejemplo](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Coordenadas/Ej%20ejemplo)| Absolute position|
+| [Ej6](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Coordenadas/Ej6)| Absolute position|
+| [Ej7](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Coordenadas/Ej7)| Absolute position|
+| [Ej8](https://github.com/celiustp/Ejerciciosllmm/tree/master/css/Coordenadas/Ej8)| Absolute position|
 
 
 
